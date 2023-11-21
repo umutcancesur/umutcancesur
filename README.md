@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @umutcancesur
 - 👀 I’m interested in Artificial Intelligence, Web Technologies
 - 🌱 I’m currently learning Artificial Intelligence, Vue, Machine learning, Game Programming.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me umutcancesuruc@gmail.com
 
 <!---
